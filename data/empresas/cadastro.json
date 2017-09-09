@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "total": 5,
+  "data": [
+    {
+      "id":             1,
+      "razao_social":   "Levi e Mariane Telecomunicações Ltda",
+      "nome_fantasia":  "Levi e Mariane",
+      "email":          "financeiro@leviemarianetelecomunicacoesltda.com.br",
+      "cnpj":           "27.511.544/0001-74",
+      "endereco":       "Rua Edmundo de Barros, 502",
+      "cidade":         "Foz do Iguaçu",
+      "bairro":         "Jardim Dom Pedro I",
+      "uf":             "PR",
+      "cep":            "85856-602",
+      "telefone1":      "(45) 3822-7404",
+      "telefone2":      "(45) 99315-4208"
+    },
+    {
+      "id":             2,
+      "razao_social":   "Kevin e Evelyn Limpeza Ltda",
+      "nome_fantasia":  "Kevin e Evelyn",
+      "email":          "orcamento@kevineevelynlimpezaltda.com.br",
+      "cnpj":           "75.577.488/0001-13",
+      "endereco":       "Rua Agustinho Zemuner, 640",
+      "cidade":         "Londrina",
+      "bairro":         "Conjunto Residencial Marajoara",
+      "uf":             "PR",
+      "cep":            "86080-740",
+      "telefone1":      "(43) 2875-5673",
+      "telefone2":      "(43) 99484-1680"
+    },
+    {
+      "id":             3,
+      "razao_social":   "Isabelle e Gabrielly Locações de Automóveis ME",
+      "nome_fantasia":  "Isabelle e Gabrielly",
+      "email":          "atendimento@isabelleegabriellylocacoesdeautomoveisme.com.br",
+      "cnpj":           "67.836.988/0001-02",
+      "endereco":       "Rua Pioneira Erenita Ribeiro, 310",
+      "cidade":         "Maringá",
+      "bairro":         "Parque Industrial",
+      "uf":             "PR",
+      "cep":            "87065-060",
+      "telefone1":      "(44) 2994-9740",
+      "telefone2":      "(44) 98272-4413"
+    },
+    {
+      "id":             4,
+      "razao_social":   "Ricardo e Lorenzo Pizzaria ME",
+      "nome_fantasia":  "Ricardo e Lorenzo",
+      "email":          "producao@ricardoelorenzopizzariame.com.br",
+      "cnpj":           "07.461.202/0001-80",
+      "endereco":       "Rua Esper Jorge Chueri, 672",
+      "cidade":         "Curitiba",
+      "bairro":         "Cajuru",
+      "uf":             "PR",
+      "cep":            "82920-190",
+      "telefone1":      "(41) 3658-7786",
+      "telefone2":      "(41) 99944-5675"
+    },
+    {
+      "id":             5,
+      "razao_social":   "Valentina e Catarina Transportes Ltda",
+      "nome_fantasia":  "Valentina e Catarina",
+      "email":          "pesquisa@valentinaecatarinatransportesltda.com.br",
+      "cnpj":           "35.978.458/0001-02",
+      "endereco":       "Rua Três, 561",
+      "cidade":         "Campo Largo",
+      "bairro":         "Jardim Lorenzete",
+      "uf":             "PR",
+      "cep":            "83603-290",
+      "telefone1":      "(41) 2891-7681",
+      "telefone2":      "(41) 99375-9694"
+    }
+  ]
+}

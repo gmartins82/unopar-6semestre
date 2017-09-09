@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "total": 5,
+  "data": [
+    {
+      "id"        : 1,
+      "nome"      : "Joaquim Francisco Rocha",
+      "telefone"  : "(41) 3715-7769",
+      "nascimento": "1995-08-07",
+      "endereco"  : "Rua Budapest, 410",
+      "cidade"    : "Colombo",
+      "bairro"    : "Rio Verde",
+      "uf"        : "PR",
+      "cep"       : "83405-470"
+    },
+    {
+      "id"        : 2,
+      "nome"      : "Brenda Ester Cavalcanti",
+      "telefone"  : "(42) 2793-8111",
+      "nascimento": "1995-12-23",
+      "endereco"  : "Rua Buriti, 875",
+      "cidade"    : "Ponta Grossa",
+      "bairro"    : "Contorno",
+      "uf"        : "PR",
+      "cep"       : "84061-130"
+    },
+    {
+      "id"        : 4,
+      "nome"      : "Diego Paulo Yuri Rodrigues",
+      "telefone"  : "(41) 2537-3118",
+      "nascimento": "2001-10-15",
+      "endereco"  : "Rua Três Corações, 997",
+      "cidade"    : "Curitiba",
+      "bairro"    : "Santa Felicidade",
+      "uf"        : "PR",
+      "cep"       : "82410-480"
+    },
+    {
+      "id"        : 3,
+      "nome"      : "Marcela Eloá Helena Nascimento",
+      "telefone"  : "(44) 2685-1492",
+      "nascimento": "1895-10-09",
+      "endereco"  : "Rua João Climaco Pereira, 868",
+      "cidade"    : "Paranavaí",
+      "bairro"    : "Distrito Sumaré (Sumaré)",
+      "uf"        : "PR",
+      "cep"       : "87720-030"
+    },
+    {
+      "id"        : 5,
+      "nome"      : "Samuel Felipe Monteiro",
+      "telefone"  : "(41) 3836-1437",
+      "nascimento": "2000-10-09",
+      "endereco"  : "Rua Doutor Faivre, 247",
+      "cidade"    : "Curitiba",
+      "bairro"    : "centro",
+      "uf"        : "PR",
+      "cep"       : "80060-140"
+    }
+  ]
+}
